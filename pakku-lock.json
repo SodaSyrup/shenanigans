@@ -7668,6 +7668,82 @@
             ]
         },
         {
+            "pakku_id": "yOs6Cw3kF0Vmzkm1",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "incendium",
+                "modrinth": "incendium"
+            },
+            "name": {
+                "curseforge": "Incendium",
+                "modrinth": "Incendium"
+            },
+            "id": {
+                "curseforge": "591388",
+                "modrinth": "ZVzW5oNS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Incendium_1.20.x_v5.3.5.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5351/562/Incendium_1.20.x_v5.3.5.jar",
+                    "id": "5351562",
+                    "parent_id": "591388",
+                    "hashes": {
+                        "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+                        "md5": "783705058e0b778ca1c80ac5cc8698f6"
+                    },
+                    "required_dependencies": [],
+                    "size": 4638945,
+                    "date_published": "2024-05-17T19:39:10.887Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Incendium_1.20_v5.3.5.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/b9pN4Twz/Incendium_1.20_v5.3.5.zip",
+                    "id": "b9pN4Twz",
+                    "parent_id": "ZVzW5oNS",
+                    "hashes": {
+                        "sha512": "5d0d360a51b86f62354b5867f87d4f39ad78f2c91d6bcccc26235db029f2d93a63e9e63a19d07f48e59655a2bd6d394fc9c0172be6ae4dc32a68763054914350",
+                        "sha1": "27b5965ba51e6727bcab17db367469b2d86bf9ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 4475914,
+                    "date_published": "2024-09-18T08:24:48.116583Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7AXPOfNMKiGcPOUE",
             "type": "MOD",
             "side": "CLIENT",
@@ -13647,76 +13723,6 @@
                     ],
                     "size": 287385,
                     "date_published": "2025-09-23T13:34:17.163Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "1Y1k12B6Sbuw6EWc",
-            "pakku_links": [
-                "zJdHaMqgv1dOR3pR"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "roadarchitect",
-                "modrinth": "roadarchitect"
-            },
-            "name": {
-                "curseforge": "RoadArchitect",
-                "modrinth": "RoadArchitect"
-            },
-            "id": {
-                "curseforge": "1326434",
-                "modrinth": "dLRvLyY3"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "roadarchitect-1.6.1-fabric+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7136/237/roadarchitect-1.6.1-fabric+1.20.1.jar",
-                    "id": "7136237",
-                    "parent_id": "1326434",
-                    "hashes": {
-                        "sha1": "e0346149345e58f603c3adc4a6eb4af0229e28dc",
-                        "md5": "615fc36d20d6b1e3577b6467b92905af"
-                    },
-                    "required_dependencies": [
-                        "348521"
-                    ],
-                    "size": 387573,
-                    "date_published": "2025-10-22T10:18:27.860Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "roadarchitect-1.6.1-fabric+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dLRvLyY3/versions/u3IyYxds/roadarchitect-1.6.1-fabric+1.20.1.jar",
-                    "id": "u3IyYxds",
-                    "parent_id": "dLRvLyY3",
-                    "hashes": {
-                        "sha512": "330d839693eb2a7b88e8367acd69fc7e87d000384c37985bb5f194f3e86cbbf1f237ce21a3db303a647e01527d9e294785a675ed8731015aedba703afe509bd6",
-                        "sha1": "e0346149345e58f603c3adc4a6eb4af0229e28dc"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 387573,
-                    "date_published": "2025-10-22T10:03:38.745074Z"
                 }
             ]
         },
