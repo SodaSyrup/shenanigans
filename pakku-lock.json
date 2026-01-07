@@ -15223,69 +15223,6 @@
             ]
         },
         {
-            "pakku_id": "9uPCfE9WDcnMWZgx",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "starlight",
-                "modrinth": "starlight"
-            },
-            "name": {
-                "curseforge": "Starlight (Fabric)",
-                "modrinth": "Starlight (Fabric)"
-            },
-            "id": {
-                "curseforge": "521783",
-                "modrinth": "H8CaAYZC"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "XGIsoVGT",
-                    "parent_id": "H8CaAYZC",
-                    "hashes": {
-                        "sha512": "6b0e363fc2d6cd2f73b466ab9ba4f16582bb079b8449b7f3ed6e11aa365734af66a9735a7203cf90f8bc9b24e7ce6409eb04d20f84e04c7c6b8e34f4cc8578bb",
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
-                    },
-                    "required_dependencies": [],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:51:56.458881Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4572/96/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "4572096",
-                    "parent_id": "521783",
-                    "hashes": {
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
-                        "md5": "a0b391bf55891502c2074bd078bb5899"
-                    },
-                    "required_dependencies": [],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:37:29.753Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ROKPzaL5At3fQ5Hi",
             "pakku_links": [
                 "kyyzOCzqkJhCruX8"
