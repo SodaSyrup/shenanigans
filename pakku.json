@@ -2,9 +2,6 @@
     "name": "Shenanigans",
     "version": "0.0.12-alpha",
     "author": "Salad",
-    "overrides": [
-        "config"
-    ],
     "paths": {
         "data_packs": "./kubejs/data/",
         "shader_packs": "./shaderpacks/"
