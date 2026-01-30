@@ -3432,6 +3432,94 @@
             ]
         },
         {
+            "pakku_id": "JsjjJ6FBX87UE4RD",
+            "pakku_links": [
+                "y4CrlFo5OCeLnklo",
+                "800soga18YG65lqD",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "cull-less-leaves",
+                "modrinth": "cull-less-leaves"
+            },
+            "name": {
+                "curseforge": "Cull Less Leaves",
+                "modrinth": "Cull Less Leaves"
+            },
+            "id": {
+                "curseforge": "619718",
+                "modrinth": "iG6ZHsUV"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5844/813/Cull Less Leaves-1.4.2+1.21-fabric.jar",
+                    "id": "5844813",
+                    "parent_id": "619718",
+                    "hashes": {
+                        "sha1": "fb6bc41a024e0f0f14ded097025d205a240a60b5",
+                        "md5": "f19165dad0971e6bfcecca1bf9ac0af2"
+                    },
+                    "required_dependencies": [
+                        "394468",
+                        "667299",
+                        "306612"
+                    ],
+                    "size": 27086,
+                    "date_published": "2024-10-25T15:26:44.713Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/4sXZok62/Cull Less Leaves-1.4.2+1.21-fabric.jar",
+                    "id": "4sXZok62",
+                    "parent_id": "iG6ZHsUV",
+                    "hashes": {
+                        "sha512": "e9f479d73d55963f71f9ad5dbdca2d287d28048aeca2818f9ffc9e7bb9531a18af4e894b4c673d435b051d4fad2cee9666f31a773486cee2e4b9548edfd34781",
+                        "sha1": "fb6bc41a024e0f0f14ded097025d205a240a60b5"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "AANobbMI",
+                        "1eAoo2KR"
+                    ],
+                    "size": 27086,
+                    "date_published": "2024-10-25T15:26:45.094323Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gmZ66N0xMydVxy6D",
             "type": "MOD",
             "side": "BOTH",
