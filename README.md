@@ -32,3 +32,6 @@ We are also looking for playtesters on our [Discord](https://discord.gg/RPEz5JX4
 If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/SodaSyrup/shenanigans/issues)
 
 
+[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-plural_vector.svg)](https://ko-fi.com/saladsyrup)
+
+
