@@ -4,7 +4,7 @@ _name subject to change_
 
 _Looking for playtesters, info below!_
 
-[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/shenanigans) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition)
+[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/shenanigans)
 
 This is our attempt at creating a nice and pleasant Vanilla++ Experience with many opinionated changes to make it feel very comfortable and familiar.
 
@@ -30,4 +30,5 @@ This pack has been in the works for over 2 years (LOTS of procrastination), and 
 We are also looking for playtesters on our [Discord](https://discord.gg/RPEz5JX4EM)!
 
 If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/SodaSyrup/shenanigans/issues)
+
 
